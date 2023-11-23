@@ -1,2 +1,2 @@
 # viop_bot
-viop bot
+viop vakıfbank bot
