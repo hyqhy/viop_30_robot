@@ -1,2 +1,5 @@
 # viop_bot
-viop vakıfbank bot
+Viop vakıfbank bot
+PHP ile yazıldı. 
+Sunucuda veya bilgisayarda çalışabilir.
+Ek kütüphane gerktirmez.
