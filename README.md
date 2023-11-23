@@ -2,4 +2,4 @@
 Viop vakıfbank bot
 PHP ile yazıldı. 
 Sunucuda veya bilgisayarda çalışabilir.
-Ek kütüphane gerktirmez.
+Ek kütüphane gerektirmez.
